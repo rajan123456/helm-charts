@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  attendance:
+  microservice:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-07-22T00:52:13.3215466+08:00"
-    description: Helm chart for uPresent Attendance Deployment
-    digest: f6d8864f13fce4bdd07b18d1171183cddc59d5032f1344cbb438183b99aceefa
-    name: attendance
+    created: "2020-07-22T02:10:33.9092407+08:00"
+    description: Generic Helm chart for uPresent microservice deployment
+    digest: add201f77b4e41ff9e01e241b2e614f1b38ea4f750ea0d5c3bf04939ce612faa
+    name: microservice
     type: application
     urls:
-    - attendance-1.0.0.tgz
+    - microservice-1.0.0.tgz
     version: 1.0.0
-generated: "2020-07-22T00:52:13.3195472+08:00"
+generated: "2020-07-22T02:10:33.9082476+08:00"
