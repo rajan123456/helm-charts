@@ -1,63 +1,14 @@
 apiVersion: v1
 entries:
-  mongo-attendance:
+  attendance:
   - apiVersion: v2
-    appVersion: "1.0"
-    created: "2020-07-17T01:46:21.3213827+08:00"
-    dependencies:
-    - name: mongodb
-      repository: https://charts.bitnami.com/bitnami
-      version: 8.1.1
-    description: Helm chart for MongoDB deployment for attendance microservice
-    digest: 514ed4003f6aa998581ff2d08018e9c4691a5e497f3fb2bb6c1fd015223d18af
-    name: mongo-attendance
+    appVersion: 1.0.0
+    created: "2020-07-22T00:52:13.3215466+08:00"
+    description: Helm chart for uPresent Attendance Deployment
+    digest: f6d8864f13fce4bdd07b18d1171183cddc59d5032f1344cbb438183b99aceefa
+    name: attendance
     type: application
     urls:
-    - mongo-attendance-1.0.1.tgz
-    version: 1.0.1
-  mongo-management:
-  - apiVersion: v2
-    appVersion: "1.0"
-    created: "2020-07-17T01:46:21.3253829+08:00"
-    dependencies:
-    - name: mongodb
-      repository: https://charts.bitnami.com/bitnami
-      version: 8.1.1
-    description: Helm chart for MongoDB deployment for management microservice
-    digest: e957e1581f79cb03535765c87426c57d95abf0f85caae325687b99beaf54ad07
-    name: mongo-management
-    type: application
-    urls:
-    - mongo-management-1.0.0.tgz
+    - attendance-1.0.0.tgz
     version: 1.0.0
-  mongo-reporting:
-  - apiVersion: v2
-    appVersion: "1.0"
-    created: "2020-07-17T01:46:21.3284229+08:00"
-    dependencies:
-    - name: mongodb
-      repository: https://charts.bitnami.com/bitnami
-      version: 8.1.1
-    description: Helm chart for MongoDB deployment for reporting microservice
-    digest: 2382cf129c78869bb6347534c5925d46989b82ad053303a769e22f2f79998f35
-    name: mongo-reporting
-    type: application
-    urls:
-    - mongo-reporting-1.0.0.tgz
-    version: 1.0.0
-  mongo-user:
-  - apiVersion: v2
-    appVersion: "1.0"
-    created: "2020-07-17T01:46:21.3323937+08:00"
-    dependencies:
-    - name: mongodb
-      repository: https://charts.bitnami.com/bitnami
-      version: 8.1.1
-    description: Helm chart for MongoDB deployment for user microservice
-    digest: fdc96795552e1c0be7f2edbf2bba46f876d19378e6f4bc3ea664b82446d49c33
-    name: mongo-user
-    type: application
-    urls:
-    - mongo-user-1.0.0.tgz
-    version: 1.0.0
-generated: "2020-07-17T01:46:21.2693812+08:00"
+generated: "2020-07-22T00:52:13.3195472+08:00"
