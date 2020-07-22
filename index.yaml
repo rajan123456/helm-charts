@@ -3,7 +3,17 @@ entries:
   microservice:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-07-22T02:10:33.9092407+08:00"
+    created: "2020-07-23T00:52:50.9740236+08:00"
+    description: Generic Helm chart for uPresent microservice deployment
+    digest: 97fcddb7f2d625d1c1b62f6f64870bfe5347d586bfe299c83d485df5293e0352
+    name: microservice
+    type: application
+    urls:
+    - microservice-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-07-23T00:52:50.9720694+08:00"
     description: Generic Helm chart for uPresent microservice deployment
     digest: add201f77b4e41ff9e01e241b2e614f1b38ea4f750ea0d5c3bf04939ce612faa
     name: microservice
@@ -11,4 +21,4 @@ entries:
     urls:
     - microservice-1.0.0.tgz
     version: 1.0.0
-generated: "2020-07-22T02:10:33.9082476+08:00"
+generated: "2020-07-23T00:52:50.9700695+08:00"
