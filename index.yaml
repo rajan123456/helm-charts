@@ -3,9 +3,9 @@ entries:
   microservice:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-07-27T23:26:06.741644+08:00"
+    created: "2020-07-28T06:13:31.983771+08:00"
     description: Generic Helm chart for uPresent microservice deployment
-    digest: d01412aa664599a83b2e92a742baf30921f081e310f07dbc20d03d38a5eef1fe
+    digest: b95add3072db919e55d20bcbae5a180bc78d450de3158656efc455d643ee775f
     home: https://github.com/rajan123456/uPresent
     maintainers:
     - name: rajan123456
@@ -18,7 +18,7 @@ entries:
     version: 4.0.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-07-27T23:26:06.7396455+08:00"
+    created: "2020-07-28T06:13:31.98277+08:00"
     description: Generic Helm chart for uPresent microservice deployment
     digest: dd056f424bae70cbc22a277fa561367cb9d11b759bec007839558299fbcfde0a
     home: https://github.com/rajan123456/uPresent
@@ -33,7 +33,7 @@ entries:
     version: 3.0.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-07-27T23:26:06.7386455+08:00"
+    created: "2020-07-28T06:13:31.9817768+08:00"
     description: Generic Helm chart for uPresent microservice deployment
     digest: 9b0faad6d4dcdee413eafcddc546d88cdf2026339ea49680823d63c736e5008c
     home: https://github.com/rajan123456/uPresent
@@ -48,7 +48,7 @@ entries:
     version: 2.1.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-07-27T23:26:06.7386455+08:00"
+    created: "2020-07-28T06:13:31.9817768+08:00"
     description: Generic Helm chart for uPresent microservice deployment
     digest: 51b389babb44790fcbca08884111010b89e9808df00d8b6996eca8a2b242c823
     home: https://github.com/rajan123456/uPresent
@@ -63,7 +63,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-07-27T23:26:06.7376454+08:00"
+    created: "2020-07-28T06:13:31.9807703+08:00"
     description: Generic Helm chart for uPresent microservice deployment
     digest: 27cf78f72c69dd952cac7f973e4bb9750a32e1193fa50bf5321ec495be832bab
     home: https://github.com/rajan123456/uPresent
@@ -78,7 +78,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-07-27T23:26:06.7366452+08:00"
+    created: "2020-07-28T06:13:31.9797787+08:00"
     description: Generic Helm chart for uPresent microservice deployment
     digest: add201f77b4e41ff9e01e241b2e614f1b38ea4f750ea0d5c3bf04939ce612faa
     name: microservice
@@ -89,7 +89,7 @@ entries:
   upresent-micro:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-07-27T23:26:06.8046812+08:00"
+    created: "2020-07-28T06:13:32.0487759+08:00"
     dependencies:
     - name: apm-server
       repository: https://helm.elastic.co
@@ -175,7 +175,7 @@ entries:
       repository: https://helm.releases.hashicorp.com
       version: 0.6.0
     description: Helm chart for uPresent Distributed Deployment
-    digest: bbb4c03057c814af993f5e526ed00af824b1a32ba78475ca30a856590cb56a24
+    digest: 587667593aef833851781ebcce42f65b895c29cc57a9473f816cafb4c145ea6a
     home: https://github.com/rajan123456/uPresent
     maintainers:
     - name: rajan123456
@@ -186,4 +186,4 @@ entries:
     urls:
     - upresent-micro-1.0.0.tgz
     version: 1.0.0
-generated: "2020-07-27T23:26:06.7356455+08:00"
+generated: "2020-07-28T06:13:31.9787364+08:00"
